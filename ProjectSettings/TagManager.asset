@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ConnectionSlot
+  - Detail
+  - Food
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - PlayerAmmunition
+  - Enemy
+  - EnemyAmmunition
+  - Food
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: StoreUI
+    uniqueID: 1843558873
+    locked: 0
+  - name: Pickup
+    uniqueID: 1705630681
+    locked: 0
+  - name: ProgressUI
+    uniqueID: 591998275
+    locked: 0
